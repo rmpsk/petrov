@@ -108,7 +108,7 @@ header ul li a:hover {
 
 .projects div {
   width: 520px;
-  background: aqua;
+  background: #5c5b5b;
   margin: 15px;
   height: 297px;
   background-image: url('../images/project_x.jpg');
@@ -119,6 +119,22 @@ header ul li a:hover {
   justify-content: center;
   align-items: center;
   border-radius: 10px;
+}
+
+.project1 {
+  background-image: url('../images/project_x.jpg');
+}
+
+.project2 {
+  background-image: url('../images/project_x.jpg');
+}
+
+.project3 {
+  background-image: url('../images/project_x.jpg');
+}
+
+.project4 {
+  background-image: url('../images/project_x.jpg');
 }
 
 .projects h3 {
